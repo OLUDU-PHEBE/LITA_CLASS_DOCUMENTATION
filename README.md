@@ -25,10 +25,13 @@ The LITA Data Analysis course duration is 3 month with intensive and extensive 2
     2. data cleaning,
     3. data analysis
     4. data visualization
-- STRUCTURED QUERY LANGUAGE (SQL)
+- STRUCTURED QUERY LANGUAGE (SQL) 
     1. querying of data
     2. temporary views
-- POWER BI 
+- POWER BI
+     1. Data Entry
+     2. Data cleaning
+     3. Data visualization
 - GITHUB for PORTFOLIO BUILDING
 - LMS (CANVAS)
 
@@ -40,4 +43,20 @@ detect and help the organization focus on what's working , what's not working an
 understand ethical considerations and best practices in data analysis and more
 
 ### TEST AND ASSIGNMENTS
-Tests related to this course is been scheduled on Data Analysis Class LMS (CANVAS)  
+Tests related to this course is been scheduled on Data Analysis Class LMS (CANVAS) with strict rules and regulations.
+
+### PROJECT ACHIEVEMENTS
+- data cleaning and preparations
+- exploratory data analysis
+### DATA CLEANING AND PREPARATIONS
+The intial phase of the data cleaning and preparation, we perform the following:
+ 1. data loading and inspections
+ 2. handling missing variables
+ 3. data cleaning and formatting
+    
+### EXPLORATORY DATA ANALYSIS
+EDA involved the exploring of data to answer important questions about the data such as:
+what is the overall sales trend?
+which products are top sellers?
+which products are 
+what are the products on peak sales
