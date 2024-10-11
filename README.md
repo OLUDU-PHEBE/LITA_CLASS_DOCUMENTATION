@@ -13,6 +13,9 @@ gaining practical experience through hands-on projects and case studies
 understanding ethical considerations and best practices in data analysis
 overall, the goal of a data analysis class is to empower students with the knowledge and skills to confidently work with data and derive meaningful insights that can inform decision-making processes.
 
+###TABLE OF CONTENTS
+LITA_DATA_ANALYSIS CLASS SOFTWARE
+
 ### LITA_DATA_ANALYSIS CLASS SOFTWARES
 MICROSOFT EXCELL https://www.microsoft.com/en-us/microsoft-365/excel?ocid=ORSEARCH_Bing&msockid=3186292c7d786b7428e626017c656ac0
 STRUCTURED QUERY LANGUAGE (SQL)
