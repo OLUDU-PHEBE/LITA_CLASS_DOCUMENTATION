@@ -20,7 +20,7 @@ LITA_DATA_ANALYSIS CLASS SOFTWARE
 The LITA Data Analysis course duration is 3 month with intensive and extensive 2 hours session every 3 days every week.
 
 ### LITA_DATA_ANALYSIS CLASS TOOLS and INSTRUCMENT
-- MICROSOFT EXCELL  DOWNLOAD NOW(https://www.microsoft.com/en-us/microsoft-365/excel?ocid=ORSEARCH_Bing&msockid=3186292c7d786b7428e626017c656ac0)
+- MICROSOFT EXCELL  [DOWNLOAD HERE](https://www.microsoft.com/en-us/microsoft-365/excel?ocid=ORSEARCH_Bing&msockid=3186292c7d786b7428e626017c656ac0)
     1. data collection
     2. data cleaning,
     3. data analysis
