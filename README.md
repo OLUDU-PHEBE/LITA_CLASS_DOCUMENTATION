@@ -56,7 +56,11 @@ The intial phase of the data cleaning and preparation, we perform the following:
     
 ### EXPLORATORY DATA ANALYSIS
 EDA involved the exploring of data to answer important questions about the data such as:
-what is the overall sales trend?
-which products are top sellers?
-which products are 
-what are the products on peak sales
+- what is the overall Shop sales trend?
+- which products are top sellers?
+- which products are bottom sellers? 
+- what are the percentage sales of each shops? 
+
+### DATA ANALYSIS
+
+###
