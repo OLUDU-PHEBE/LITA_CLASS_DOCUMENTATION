@@ -13,7 +13,7 @@ The objectives of the class may include:
 - understanding ethical considerations and best practices in data analysis
 overall, the goal of a data analysis class is to empower students with the knowledge and skills to confidently work with data and derive meaningful insights that can inform decision-making processes.
 
-#### TABLE OF CONTENTS
+### TABLE OF CONTENTS
 LITA_DATA_ANALYSIS CLASS SOFTWARE
 
 ### COURSE DURATION
@@ -37,10 +37,10 @@ The LITA Data Analysis course duration is 3 month with intensive and extensive 2
 
 ### GOAL OF THE COURSE
 At the end of this data anlysis course i will definitely be able to 
-collect, clean and prepare data for analysis
-Understand how important a data analyst is to the organization and its management in the decision making process and impact o its turnover  
-detect and help the organization focus on what's working , what's not working and what aspect to work on to improve the organisatio turnover
-understand ethical considerations and best practices in data analysis and more
+- collect, clean and prepare data for analysis
+- Understand how important a data analyst is to the organization and its management in the decision making process and impact on its turnover  
+- detect and help the organization focus on what's working , what's not working and what aspect to work on to improve the organisatio turnover
+- understand ethical considerations and best practices in data analysis and more
 
 ### TEST AND ASSIGNMENTS
 Tests related to this course is been scheduled on Data Analysis Class LMS (CANVAS) with strict rules and regulations.
@@ -62,5 +62,7 @@ EDA involved the exploring of data to answer important questions about the data 
 - what are the percentage sales of each shops? 
 
 ### DATA ANALYSIS
+This where we include some basic lines of codes, queries or even some DAX expressions used during the analysis process;
+~~~ MICROSOFT EXCELL
 
 ###
