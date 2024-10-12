@@ -62,6 +62,7 @@ EDA involved the exploring of data to answer important questions about the data 
 - what are the percentage sales of each shops? 
 
 ### DATA ANALYSIS
+```
 This where we include some basic lines of codes, queries or even some DAX expressions used during the analysis process;
 
 ``` MICROSOFT EXCELL
@@ -72,9 +73,9 @@ CREATE TABLE EMPLOYEE
 SELECT lekki_store as [branches].customerID,
 Firstname as [FIRSTNAME], Lastname as [LASTNAME]
 FROM LITA_STORE_LEKKI
-
 SELECT * FROM EMPLOYEE
-JOIN "PHEBE" AND "OLUDU"
+
+### RECOMMENDATION
 
 
 
