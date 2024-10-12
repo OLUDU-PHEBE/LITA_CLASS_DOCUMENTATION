@@ -1,5 +1,26 @@
 # LITA_CLASS_DOCUMENTATION
 ## PROJECT TITLE: LITA_DATA_ANALYSIS CLASS
+## TABLE OF CONTENTS
+[PROJECT OVERVIEW](#project-overview)
+
+[COURSE DURATION](#course-duration) 
+
+[LITA_DATA_ANALYSIS CLASS TOOLS and INSTRUCMENT](#lita_data_analysis-class-tools-and-instrucment) 
+
+[GOAL OF THE COURSE](#goal-of-the-course)
+
+[TEST AND ASSIGNMENTS](#test-and-assignments) 
+
+[PROJECT ACHIEVEMENTS](#project-achievements)
+
+[DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparations) 
+
+[EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis) 
+
+[DATA ANALYSIS](#data-analysis) 
+
+[DATA VISUALIZATION](#data-visualization)
+
 ### PROJECT OVERVIEW
 This LITA_DATA_ANALYSIS CLASS aims at equipping students with the theoretical knowledge and practical skills neccessary to analyze and interpret data effectively:
 The objectives of the class may include:
