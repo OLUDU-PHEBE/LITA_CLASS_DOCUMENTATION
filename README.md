@@ -90,7 +90,7 @@ This where we include some basic lines of codes, queries or even some DAX expres
 ![Screenshot (6)](https://github.com/user-attachments/assets/82c1c852-1ad7-4338-b68e-b5adde615713)
 
 
-### RECOMMENDATION
+
 
 
 
