@@ -13,9 +13,6 @@ The objectives of the class may include:
 - understanding ethical considerations and best practices in data analysis
 overall, the goal of a data analysis class is to empower students with the knowledge and skills to confidently work with data and derive meaningful insights that can inform decision-making processes.
 
-### TABLE OF CONTENTS
-LITA_DATA_ANALYSIS CLASS SOFTWARE
-
 ### COURSE DURATION
 The LITA Data Analysis course duration is 3 month with intensive and extensive 2 hours session every 3 days every week.
 
@@ -66,7 +63,7 @@ EDA involved the exploring of data to answer important questions about the data 
 This where we include some basic lines of codes, queries or even some DAX expressions used during the analysis process;
 
 ```SQL
-SELECT * FROM EMPLOYEE
+ SELECT * FROM EMPLOYEE
 ```
 ### DATA VISUALIZATION
 ![Screenshot (6)](https://github.com/user-attachments/assets/82c1c852-1ad7-4338-b68e-b5adde615713)
