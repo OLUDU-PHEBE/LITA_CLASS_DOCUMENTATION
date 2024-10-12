@@ -63,6 +63,7 @@ EDA involved the exploring of data to answer important questions about the data 
 
 ### DATA ANALYSIS
 This where we include some basic lines of codes, queries or even some DAX expressions used during the analysis process;
+
 ```MICROSOFT EXCELL
 
 ```SQL
